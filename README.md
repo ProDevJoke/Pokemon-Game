@@ -1,3 +1,3 @@
 # Pokemon-Game
 
-Experience on developing a pokemon game from start
+Experience on developing a pokemon game from start.
